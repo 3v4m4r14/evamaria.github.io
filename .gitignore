@@ -1,0 +1,32 @@
+# Node dependencies
+node_modules/
+
+# Eleventy build output
+_site/
+
+# Optional alternate build directories
+dist/
+public/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Cache
+.cache/
+
+# Temporary files
+*.tmp
+*.swp
